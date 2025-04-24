@@ -16,7 +16,7 @@ export interface Profile {
 export const profileData: Profile = {
   name: "Sathya J",
   title: "Junior Developer",
-  intro: "Beginner Developer | Crafting Websites with Passion",
+  intro: "Aspiring developer with a passion for creating intuitive and engaging web experiences. I thrive on learning new technologies and turning ideas into reality.",
   about: "I'm a passionate and curious learner stepping into the world of software development. I'm currently learning Java to strengthen my core programming skills and I enjoy building responsive websites using React.js. With a strong interest in development, I love turning ideas into interactive web experiences. I'm continuously exploring new AI tools and technologies, and I'm excited to grow as a developer by working on real-world projects.",
   email: "sathyakjayakumar@gmail.com",
   location: "Chennai",

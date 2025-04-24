@@ -41,7 +41,7 @@ const FooterSection: React.FC<FooterSectionProps> = ({ profile }) => {
               scrollToSection('#home');
             }}
           >
-            AJ.
+            SJ.
           </a>
           
           <ul className="flex flex-wrap justify-center gap-6">

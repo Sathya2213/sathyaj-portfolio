@@ -84,7 +84,7 @@ const Navbar: React.FC = () => {
         
         <Button 
           className="hidden md:block"
-          onClick={() => window.open('/resume.pdf', '_blank')}
+          onClick={() => window.open('/SathyaResume.pdf', '_blank')}
         >
           Resume
         </Button>
